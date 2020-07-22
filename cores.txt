@@ -1,0 +1,5 @@
+verde claro #9AFE2E
+amarelo claro #F7FE2E
+vermelho claro #FF4000
+
+verde escuro #5FB404
